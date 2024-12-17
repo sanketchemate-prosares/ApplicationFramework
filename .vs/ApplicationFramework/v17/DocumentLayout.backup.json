@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\ApplicationFramework\\ApplicationFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5C4C58-E92A-4983-9251-D0ADE014ECCA}|applicationframework.client\\applicationframework.client.esproj|c:\\work\\applicationframework\\applicationframework\\applicationframework.client\\applicationframework.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B5C4C58-E92A-4983-9251-D0ADE014ECCA}|applicationframework.client\\applicationframework.client.esproj|solutionrelative:applicationframework.client\\applicationframework.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37875A55-0EB2-44A8-8ABD-AE2D728866D8}|ApplicationFramework.Server\\ApplicationFramework.Server.csproj|c:\\work\\applicationframework\\applicationframework\\applicationframework.server\\applicationframework.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{37875A55-0EB2-44A8-8ABD-AE2D728866D8}|ApplicationFramework.Server\\ApplicationFramework.Server.csproj|solutionrelative:applicationframework.server\\applicationframework.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37875A55-0EB2-44A8-8ABD-AE2D728866D8}|ApplicationFramework.Server\\ApplicationFramework.Server.csproj|c:\\work\\applicationframework\\applicationframework\\applicationframework.server\\applicationframework.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37875A55-0EB2-44A8-8ABD-AE2D728866D8}|ApplicationFramework.Server\\ApplicationFramework.Server.csproj|solutionrelative:applicationframework.server\\applicationframework.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "applicationframework.client.esproj",
+              "DocumentMoniker": "C:\\Work\\ApplicationFramework\\ApplicationFramework\\applicationframework.client\\applicationframework.client.esproj",
+              "RelativeDocumentMoniker": "applicationframework.client\\applicationframework.client.esproj",
+              "ToolTip": "C:\\Work\\ApplicationFramework\\ApplicationFramework\\applicationframework.client\\applicationframework.client.esproj",
+              "RelativeToolTip": "applicationframework.client\\applicationframework.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T07:13:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationFramework.Server.csproj",
+              "DocumentMoniker": "C:\\Work\\ApplicationFramework\\ApplicationFramework\\ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "RelativeDocumentMoniker": "ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "ToolTip": "C:\\Work\\ApplicationFramework\\ApplicationFramework\\ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "RelativeToolTip": "ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T07:11:33.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationFramework.Server",
+              "DocumentMoniker": "C:\\Work\\ApplicationFramework\\ApplicationFramework\\ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "RelativeDocumentMoniker": "ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "ToolTip": "C:\\Work\\ApplicationFramework\\ApplicationFramework\\ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "RelativeToolTip": "ApplicationFramework.Server\\ApplicationFramework.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T07:11:28.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1246,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

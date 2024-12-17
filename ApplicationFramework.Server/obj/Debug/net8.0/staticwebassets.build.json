@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "3xf+nIfO1kiUtYMGKRir4KpNiLc+GrITajPqHNn0Y6Y=",
+  "Source": "ApplicationFramework.Server",
+  "BasePath": "_content/ApplicationFramework.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "c:\\Work\\ApplicationFramework\\ApplicationFramework\\applicationframework.client\\applicationframework.client.esproj",
+      "Version": 2,
+      "Source": "applicationframework.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

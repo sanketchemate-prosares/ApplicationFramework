@@ -1,0 +1,1 @@
+C:\Work\ApplicationFramework\ApplicationFramework\applicationframework.client\obj\Debug\applicationframework.client.esproj.CoreCompileInputs.cache
