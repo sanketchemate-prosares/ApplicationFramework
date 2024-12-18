@@ -33,3 +33,4 @@ C:\Work\ApplicationFramework\ApplicationFramework\ApplicationFramework.Server\ob
 C:\Work\ApplicationFramework\ApplicationFramework\ApplicationFramework.Server\obj\Debug\net8.0\ApplicationFramework.Server.pdb
 C:\Work\ApplicationFramework\ApplicationFramework\ApplicationFramework.Server\obj\Debug\net8.0\ApplicationFramework.Server.genruntimeconfig.cache
 C:\Work\ApplicationFramework\ApplicationFramework\ApplicationFramework.Server\obj\Debug\net8.0\ref\ApplicationFramework.Server.dll
+c:\Work\ApplicationFramework\ApplicationFramework\ApplicationFramework.Server\obj\Debug\net8.0\ApplicationFramework.Server.sourcelink.json

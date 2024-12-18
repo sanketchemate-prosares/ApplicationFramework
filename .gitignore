@@ -78,3 +78,12 @@ secrets.json
 
 # JetBrains Rider temp files
 *_CodeCoverage/
+ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.exe
+ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.exe
+ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.pdb
+ApplicationFramework.Server/obj/Debug/net8.0/apphost.exe
+ApplicationFramework.Server/obj/Debug/net8.0/ApplicationFramework.Server.AssemblyInfo.cs
+ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.dll
+ApplicationFramework.Server/obj/Debug/net8.0/ApplicationFramework.Server.AssemblyInfo.cs
+ApplicationFramework.Server/obj/Debug/net8.0/apphost.exe
+ApplicationFramework.Server/obj/Debug/net8.0/refint/ApplicationFramework.Server.dll
