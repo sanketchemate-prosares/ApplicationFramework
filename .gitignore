@@ -96,6 +96,60 @@ obj/
 # Ignore Rider IDE files
 .idea/
 
+# Build output folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+.vs/
+
+# Logs
+*.log
+
+# Application settings
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.db
+
+# Generated files
+*.gen.cs
+*.generated.cs
+
+# Ignore publish output
+publish/
+wwwroot/
+
+# Git ignore for IDE or tooling cache
+.idea/
+*.DS_Store
+
+# Optional backup files
+*.bak
+*.swp
+*.tmp
+
+# Rider or JetBrains
+.idea/
+*.iml
+
 # JetBrains Rider temp files
 *_CodeCoverage/
 ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.exe
