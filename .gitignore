@@ -76,6 +76,26 @@ secrets.json
 .idea/
 .vscode/
 
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output directories
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore dependencies
+*.dll
+*.exe
+*.pdb
+
+# Ignore Rider IDE files
+.idea/
+
 # JetBrains Rider temp files
 *_CodeCoverage/
 ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.exe
@@ -87,3 +107,84 @@ ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.dll
 ApplicationFramework.Server/obj/Debug/net8.0/ApplicationFramework.Server.AssemblyInfo.cs
 ApplicationFramework.Server/obj/Debug/net8.0/apphost.exe
 ApplicationFramework.Server/obj/Debug/net8.0/refint/ApplicationFramework.Server.dll
+
+
+# -----------------------------
+# Node.js
+# -----------------------------
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.log
+
+# Compiled files
+dist/
+build/
+*.tsbuildinfo
+
+# Optional npm cache
+.npm
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+
+# -----------------------------
+# .NET
+# -----------------------------
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+ApplicationFramework.Server/bin
+*/bin/*
+*/obj/*
+*/bin*
+*/obj*
+*/bin
+*/obj
+
+ApplicationFramework.Server/obj
+ApplicationFramework.Server/bin/Debug/net8.0/ApplicationFramework.Server.exe
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Entity Framework migrations
+Migrations/
+
+# Environment variables
+secrets.json
+
+# Rider and VS Code
+*.sw?
+.idea/
+.vscode/
+
+# JetBrains Rider temp files
+*_CodeCoverage/

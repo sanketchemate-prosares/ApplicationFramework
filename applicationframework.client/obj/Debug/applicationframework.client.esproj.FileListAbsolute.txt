@@ -1,1 +1,2 @@
 C:\Work\ApplicationFramework\ApplicationFramework\applicationframework.client\obj\Debug\applicationframework.client.esproj.CoreCompileInputs.cache
+d:\Sanket Chemate\Prosares\ApplicationFrameworkDemo\ApplicationFramework\applicationframework.client\obj\Debug\applicationframework.client.esproj.CoreCompileInputs.cache
